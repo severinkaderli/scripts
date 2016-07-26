@@ -5,7 +5,6 @@ REM type so much.
 REM
 REM Usage: twitch USERNAME [RESOLUTION]
 
-
 REM Check the optional resolution parameter, if it's not set we use source
 if %2.==. (
 	set resolution=source
