@@ -1,6 +1,6 @@
 @echo off
 REM This script simply uses livestreamer <http://docs.livestreamer.io/> to
-REM stream a twitch stream. It only a little shortcut, so I don't have to
+REM stream a twitch stream. It's only a little shortcut, so I don't have to
 REM type so much.
 REM
 REM Usage: twitch USERNAME [RESOLUTION]
